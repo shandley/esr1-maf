@@ -5,6 +5,8 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "biopython>=1.87",
+    "numpy>=2.4.6",
     "requests>=2.34.2",
 ]
 
