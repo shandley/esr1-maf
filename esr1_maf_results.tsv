@@ -1,0 +1,30 @@
+aa_position	rsid	consequence_type	allele_string	1kg_all_af	gnomad_exomes_af	gnomad_genomes_af
+190	rs2128234580	missense_variant	G/A/C/T		6.841e-07	
+190	rs2128234582	missense_variant	A/G/T			
+190	rs2128234587	missense_variant	C/A/G/T			
+191	rs1784490436	missense_variant	T/A/C		6.842e-07	
+191	rs2128234595	missense_variant	A/T			
+191	rs2128234599	stop_gained	T/A/G			
+192	rs1562465741	missense_variant	C/A/G/T			
+192	rs2128234601	missense_variant	G/A/C/T			
+192	rs2128234614	synonymous_variant	T/A			
+193	rs2128234616	missense_variant	T/A/C/G			
+193	rs2128234623	stop_gained	C/A/G/T			
+193	rs2128234624	synonymous_variant	A/G/T			
+194	rs2128234629	missense_variant	G/A/C/T			
+194	rs2128234633	synonymous_variant	C/A/G			
+194	rs772596249	missense_variant	G/A/C/T			
+195	rs1784491232	missense_variant	T/A/C			
+195	rs2128234641	stop_gained	C/A/G/T			
+196	rs2128234645	missense_variant	C/A/G/T			
+196	rs556478419	missense_variant	T/A/C		1.368e-06	
+197	rs2128234654	missense_variant	T/G			
+197	rs2128234656	missense_variant	A/T			
+198	rs1784491790	missense_variant	G/A			
+198	rs2128234663	missense_variant	G/A/C/T			
+198	rs2128234668	synonymous_variant	A/T			
+199	rs2128234672	missense_variant	T/A/C			
+199	rs2128234676	synonymous_variant	C/A/G/T		6.842e-07	
+199	rs776069453	missense_variant	G/A/C		5.678e-05	6.57e-06
+200	rs2128234681	stop_gained	G/A/C			
+200	rs2128234687	stop_gained	G/A/C/T			
